@@ -228,7 +228,6 @@ var rules = {
   "~*x Sonny ~*y": [
      "Hello, Sonny.",
   ],
-  ],
 };
 
 var default_responses = [
